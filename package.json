@@ -33,7 +33,11 @@
   },
   "keywords": [
     "class",
+    "class-validator",
     "transformer",
+    "class-transformer",
+    "nestjs",
+    "validator",
     "trim"
   ],
   "author": "Val.istar.Guo <val.istar.guo@gmail.com>",
