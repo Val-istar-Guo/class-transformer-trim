@@ -1,6 +1,6 @@
 {
   "name": "@miaooo/class-transformer-trim",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A class transformer helper that trim the string",
   "main": "lib/index.js",
   "scripts": {
