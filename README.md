@@ -6,15 +6,20 @@
 [![dependencies](https://img.shields.io/david/Val-istar-Guo/class-transformer-trim.svg?style=flat-square)](https://www.npmjs.com/package/@miaooo/class-transformer-trim)
 [![coveralls](https://img.shields.io/coveralls/github/Val-istar-Guo/class-transformer-trim.svg?style=flat-square)](https://coveralls.io/github/Val-istar-Guo/class-transformer-trim)
 
-
+> **DEPRECATED**
+>
+> **This package has been deprecated. Please use** [**@buka/class-transformer-extra**](https://www.npmjs.com/package/@buka/class-transformer-extra) **instead**.
 
 <!-- description -->
+
 A class transformer helper that trim the string.
+
 <!-- description -->
 
 ## Usage
 
 <!-- usage -->
+
 ```typescript
 import { Trim } from '@miaooo/class-transformer-trim';
 
@@ -25,11 +30,11 @@ export MyDTO {
   name: string;
 }
 ```
+
 <!-- usage -->
 
 <!-- addition -->
 <!-- addition -->
-
 
 ## Contributing & Development
 
